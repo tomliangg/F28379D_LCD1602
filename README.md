@@ -1,0 +1,2 @@
+# F28379D_LCD1602
+Make LCD1602 work on TI C2000 Delfino F28379D
