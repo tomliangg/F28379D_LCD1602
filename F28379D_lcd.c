@@ -190,7 +190,6 @@ void CursorOFF(void)
 /* Displays a message on LCD */
 void DisplayLCD(char LineNumber,char *Message)
 {
-    int a;
     if(LineNumber ==1)
     {   //First Line
         WriteCommandLCD(0x80);      //Select the first line
@@ -199,10 +198,8 @@ void DisplayLCD(char LineNumber,char *Message)
     {   //Second line
         WriteCommandLCD(0xc0);      //Select the second line
     }
-    for(a=0;a<16;a++)
+    while (*Message !=0)
     {
-        WriteDataLCD(*Message);     //Display a character
-        Message++;                  //Increment pointer
+        WriteDataLCD(*Message++);
     }
-    return;
 }
