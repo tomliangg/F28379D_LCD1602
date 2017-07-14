@@ -13,7 +13,7 @@
 ||         GND              <==>         Pin1 (Vss)
 ||         5V/Vcc           <==>         Pin2 (VDD 5V)
 ||         GND              <==>         Pin3 (connect a 1.0k to GND); this pin is contrast adjust, 
-						sed pot to find the R value that give you the best contrast
+					use pot to find the R value that give you the best contrast
 ||         GPIO4/P36        <==>         Pin4  (RS)
 ||         GND		    <==>         Pin5  (R/W, To GND is only enable to write)
 ||         GPIO5/P35        <==>         Pin6  (E)
