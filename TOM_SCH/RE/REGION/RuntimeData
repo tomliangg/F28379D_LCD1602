@@ -1,0 +1,28 @@
+# SAP NewDB - do not edit
+# indexid: TOM_SCH:REGION (t 24419)
+creationtimestamp=1513619563365
+modifytimestamp=0
+lastmergetimestamp=1513694509623
+lasthistorizationmergetid=0
+lastreplaylogtimestamp=1513961643130
+lastcorrectiontimestamp=0
+lasttruncationtimestamp=0
+lastoctimestamp=0
+rawcountmain=5
+rawcountdelta=0
+lastoptimizedcompressionrowcount=0
+changedrowcountsincelastoptimizecompression=5
+deletedrowsinmainafterlastmerge=0
+visiblecountmain=5
+visiblecountdelta=0
+estimatedmaxmemsizemain=279687
+estimatedmaxmemsizedelta=40328
+lastestimatedmemsize=320015
+lastestimatedmemsizetime=1513694509623
+maxrowid=5
+maxhashid=4294967296
+hashidcounters=0
+maxudiv0=5
+maxudiv1=0
+maxmergecid=0
+singlevaluecache=

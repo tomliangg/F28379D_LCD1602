@@ -1,0 +1,28 @@
+# SAP NewDB - do not edit
+# indexid: TOM_SCH:PRODUCT (t 24418)
+creationtimestamp=1513619563204
+modifytimestamp=0
+lastmergetimestamp=1513694509617
+lasthistorizationmergetid=0
+lastreplaylogtimestamp=1513961642685
+lastcorrectiontimestamp=0
+lasttruncationtimestamp=0
+lastoctimestamp=0
+rawcountmain=5
+rawcountdelta=0
+lastoptimizedcompressionrowcount=0
+changedrowcountsincelastoptimizecompression=5
+deletedrowsinmainafterlastmerge=0
+visiblecountmain=5
+visiblecountdelta=0
+estimatedmaxmemsizemain=277432
+estimatedmaxmemsizedelta=30260
+lastestimatedmemsize=307692
+lastestimatedmemsizetime=1513694509617
+maxrowid=5
+maxhashid=4294967296
+hashidcounters=0
+maxudiv0=5
+maxudiv1=0
+maxmergecid=0
+singlevaluecache=

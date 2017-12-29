@@ -1,0 +1,28 @@
+# SAP NewDB - do not edit
+# indexid: TOM_SCH:SALES (t 24420)
+creationtimestamp=1513619563532
+modifytimestamp=0
+lastmergetimestamp=1513662096527
+lasthistorizationmergetid=0
+lastreplaylogtimestamp=1513961644039
+lastcorrectiontimestamp=0
+lasttruncationtimestamp=0
+lastoctimestamp=0
+rawcountmain=9
+rawcountdelta=0
+lastoptimizedcompressionrowcount=0
+changedrowcountsincelastoptimizecompression=9
+deletedrowsinmainafterlastmerge=0
+visiblecountmain=9
+visiblecountdelta=0
+estimatedmaxmemsizemain=288656
+estimatedmaxmemsizedelta=48324
+lastestimatedmemsize=336980
+lastestimatedmemsizetime=1513662096527
+maxrowid=9
+maxhashid=4294967296
+hashidcounters=0
+maxudiv0=9
+maxudiv1=0
+maxmergecid=0
+singlevaluecache=
